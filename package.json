@@ -1,0 +1,18 @@
+{
+  "name": "neogma-exmaple-app",
+  "author": "Taylor Gagne",
+  "scripts": {
+    "dev": "nodemon ./src/app.ts"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "neogma": "^1.6.2",
+    "ts-node": "^9.1.1"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^14.14.22",
+    "nodemon": "^2.0.7",
+    "typescript": "^4.1.3"
+  }
+}
